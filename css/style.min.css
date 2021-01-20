@@ -19,7 +19,7 @@ h1, h2 {
   font-weight: 700; }
 
 .subheading {
-  color: #f34949; }
+  color: #f05454; }
 
 .bg-white {
   background-color: #fff; }
@@ -36,7 +36,7 @@ strike {
 }
 
 a {
-  color: #f34949; }
+  color: #f05454; }
 
 a:focus,
 button:focus {
@@ -96,7 +96,7 @@ a:hover {
   height: 100px; }
   #navbar-header .navbar-nav .dropdown-menu {
     border: none;
-    border-bottom: 2px solid #f34949;
+    border-bottom: 2px solid #f05454;
     border-radius: 0 !important;
     box-shadow: -5px 8px 20px 0px rgba(229, 16, 2, 0.15); }
 
@@ -117,8 +117,8 @@ a:hover {
 
 .btn-primary {
   display: inline-block;
-  background-color: #f34949;
-  border-color: #f34949;
+  background-color: #f05454;
+  border-color: #f05454;
   color: #fff;
   border-radius: 30px;
   padding: 9px 25px;
@@ -247,7 +247,7 @@ a:hover {
   .testi-content .testi-author {
     font-weight: 500; }
   .testi-content .testi-desc span {
-    color: #f34949;
+    color: #f05454;
     font-weight: bold; }
   .testi-content .owl-dots {
     position: absolute;
@@ -456,7 +456,7 @@ a:hover {
     background: #000; }
 
 #gtco-special-dishes h3 span {
-  color: #f34949; }
+  color: #f05454; }
 
 .dishes-text {
   padding-left: 90px; }
