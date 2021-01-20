@@ -159,14 +159,14 @@ a:hover {
     margin-bottom: 15px; }
 
 .hero-carousel .owl-prev, .hero-carousel .owl-next {
-  width: 110px;
-  height: 110px; }
+  width: 80px;
+  height: 80px; }
 
 .hero-carousel .owl-prev, .hero-carousel .owl-next {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fff; }
+  background-color: #f4f4f2; }
 
 .hero-carousel .owl-prev {
   border-right: 1px solid #f7f8f9; }
