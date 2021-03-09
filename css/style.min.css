@@ -19,7 +19,7 @@ h1, h2 {
   font-weight: 700; }
 
 .subheading {
-  color: #f05454; }
+  color: #fff; }
 
 .bg-white {
   background-color: #fff; }
@@ -81,8 +81,8 @@ a:hover {
   object-position: center; }
 
 .navbar-brand-center {
-  padding-left: 70px;
-  padding-right: 70px; }
+  
+  padding-right: 10px; }
   .navbar-brand-center img {
     height: 60px; }
 
@@ -90,6 +90,7 @@ a:hover {
   height: 50px; }
 
 .nav-link {
+  
   color: #000; }
 
 #navbar-header {
@@ -102,7 +103,7 @@ a:hover {
 
 @media (min-width: 1024px) {
   #navbar-header .navbar-nav {
-    width: 50%; }
+    width: 100%; }
   #navbar-header .dropdown .dropdown-menu {
     display: block;
     opacity: 0;
@@ -687,4 +688,13 @@ a:hover {
 
 body {
   font-family: 'Montserrat'
+}
+
+.side-search-open{
+  width: 100px;
+}
+
+.fssai-css{
+  width: 180px;
+  align-content: center;
 }
