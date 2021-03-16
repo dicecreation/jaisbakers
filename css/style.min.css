@@ -27,7 +27,7 @@ h1, h2 {
 .bg-grey {
   background-color: #f7f8f9; }
 .offer {
-  color: #e22104;
+  color: #b51103;
 }
 strike {
   font-weight: 200;
@@ -36,7 +36,7 @@ strike {
 }
 
 a {
-  color: #f05454; }
+  color: #b51103; }
 
 a:focus,
 button:focus {
@@ -46,7 +46,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #e22104; }
+  color: #b51103; }
 
 .btn-icon {
   display: inline-flex;
@@ -97,7 +97,7 @@ a:hover {
   height: 100px; }
   #navbar-header .navbar-nav .dropdown-menu {
     border: none;
-    border-bottom: 2px solid #f05454;
+    border-bottom: 2px solid #b51103;
     border-radius: 0 !important;
     box-shadow: -5px 8px 20px 0px rgba(229, 16, 2, 0.15); }
 
@@ -118,8 +118,8 @@ a:hover {
 
 .btn-primary {
   display: inline-block;
-  background-color: #f05454;
-  border-color: #f05454;
+  background-color: #b51103;
+  border-color: #b51103;
   color: #fff;
   border-radius: 30px;
   padding: 9px 25px;
@@ -129,8 +129,8 @@ a:hover {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   .btn-primary:hover {
-    background-color: #e22104;
-    border-color: #e22104;
+    background-color: #b51103;
+    border-color: #b51103;
     color: #fff; }
 
 .btn-shadow {
@@ -248,7 +248,7 @@ a:hover {
   .testi-content .testi-author {
     font-weight: 500; }
   .testi-content .testi-desc span {
-    color: #f05454;
+    color: #b51103;
     font-weight: bold; }
   .testi-content .owl-dots {
     position: absolute;
@@ -457,7 +457,7 @@ a:hover {
     background: #000; }
 
 #gtco-special-dishes h3 span {
-  color: #f05454; }
+  color: #b51103; }
 
 .dishes-text {
   padding-left: 90px; }
@@ -623,12 +623,12 @@ a:hover {
 	background-color: #eee;
 }
 .ba-we-love-subscribers input[name="submit"] {
-	background-color: #E22104;
+	background-color: #b51103;
 	cursor: pointer;
 	color: #fff;
 }
 .ba-we-love-subscribers input[name="submit"]:hover {
-	background-color: #E22104;
+	background-color: #b51103;
 }
 .ba-we-love-subscribers .img {
 	background-image: url("https://4.bp.blogspot.com/-1J75Et4_5vc/WAYhWRVuMiI/AAAAAAAAArE/gwa-mdtq0NIqOrlVvpLAqdPTV4VAahMsQCPcB/s1600/barrel-we-love-subscribers-img.png");
@@ -636,7 +636,7 @@ a:hover {
 .ba-we-love-subscribers-fab {
 	width: 65px;
 	height: 65px;
-	background-color: #E22104;
+	background-color: #b51103;
 	border-radius: 30px;
 	float: right;
 	box-shadow: 0px 12px 45px rgba(0, 0, 0, .3);
