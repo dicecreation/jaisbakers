@@ -1,7 +1,4 @@
-/*
- *	Resto by GetTemplates.co
- *	URL: https://gettemplates.co
- */
+
 html {
   overflow-x: hidden; }
 
@@ -205,8 +202,9 @@ a:hover {
 
 .menu-img {
   overflow: hidden;
-  height: 80px;
-  width: 80px; }
+  height: 110px;
+  width: 110px; 
+  border-radius: 4px;}
   .menu-img img {
     transition: all .5s ease;
     height: 100%;
@@ -697,4 +695,12 @@ body {
 .fssai-css{
   width: 180px;
   align-content: center;
+}
+
+.price-tag{
+  font-size: 16px;
+}
+
+.tag{
+  color: #b51103;
 }
